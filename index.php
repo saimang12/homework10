@@ -149,7 +149,7 @@ include_once(G5_THEME_PATH.'/head.php');
                         <div class="itm itm01">
                             <a href="">
                                 <figure>
-                                    <img src="<?= G5_THEME_URL?>/img/store_05.jpg" alt="">
+                                    <img src="<?= G5_THEME_URL?>/img/store_06.jpg" alt="">
                                 </figure>
                                 <div class="text_box">
                                     <strong>551호점</strong>
@@ -161,7 +161,7 @@ include_once(G5_THEME_PATH.'/head.php');
                         <div class="itm itm02">
                             <a href="">
                                 <figure>
-                                    <img src="<?= G5_THEME_URL?>/img/store_06.jpg" alt="">
+                                    <img src="<?= G5_THEME_URL?>/img/store_05.jpg" alt="">
                                 </figure>
                                 <div class="text_box">
                                     <strong>552호점</strong>
@@ -173,7 +173,7 @@ include_once(G5_THEME_PATH.'/head.php');
                         <div class="itm itm03">
                             <a href="">
                                 <figure>
-                                    <img src="<?= G5_THEME_URL?>/img/store_07.jpg" alt="">
+                                    <img src="<?= G5_THEME_URL?>/img/store_08.jpg" alt="">
                                 </figure>
                                 <div class="text_box">
                                     <strong>553호점</strong>
@@ -209,7 +209,7 @@ include_once(G5_THEME_PATH.'/head.php');
                         <div class="itm itm06">
                             <a href="">
                                 <figure>
-                                    <img src="<?= G5_THEME_URL?>/img/store_06.jpg" alt="">
+                                    <img src="<?= G5_THEME_URL?>/img/store_03.jpg" alt="">
                                 </figure>
                                 <div class="text_box">
                                     <strong>556호점</strong>
@@ -221,7 +221,7 @@ include_once(G5_THEME_PATH.'/head.php');
                         <div class="itm itm07">
                             <a href="">
                                 <figure>
-                                    <img src="<?= G5_THEME_URL?>/img/store_07.jpg" alt="">
+                                    <img src="<?= G5_THEME_URL?>/img/store_04.jpg" alt="">
                                 </figure>
                                 <div class="text_box">
                                     <strong>557호점</strong>
