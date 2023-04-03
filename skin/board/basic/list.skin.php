@@ -13,7 +13,7 @@ add_stylesheet('<link rel="stylesheet" href="'.$board_skin_url.'/style.css">', 0
 ?>
 
 <!-- 게시판 목록 시작 { -->
-<div id="bo_list" style="width:<?php echo $width; ?>">
+<div id="bo_list">
 
     <!-- 게시판 카테고리 시작 { -->
     <?php if ($is_category) { ?>

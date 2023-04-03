@@ -57,10 +57,7 @@ $(function () {
                 }
             },
         ]
-
     });
-
-
 
 
 
@@ -70,6 +67,19 @@ $(function () {
 
     $('.storeInfo  .xi-angle-right').on('click', function () {
         $('.storeInfo .store_slide').slick('slickNext');
+    });
+
+
+    $('.menuSlide').slick({
+        arrows: false,
+        dots: true,
+    });
+
+    $('.menu_arrows .left').on('click', function () {
+        $('.menuSlide').slick('slickPrev')
+    });
+    $('.menu_arrows .right').on('click', function () {
+        $('.menuSlide').slick('slickNext')
     });
 
 

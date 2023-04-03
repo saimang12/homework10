@@ -10,7 +10,7 @@ add_stylesheet('<link rel="stylesheet" href="'.$board_skin_url.'/style.css"?ver=
 
 <!-- 게시물 읽기 시작 { -->
 
-<article id="bo_v" style="width:<?php echo $width; ?>">
+<article id="bo_v">
     <header>
         <h2 id="bo_v_title">
             <?php if ($category_name) { ?>

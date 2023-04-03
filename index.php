@@ -56,28 +56,7 @@ include_once(G5_THEME_PATH.'/head.php');
                             <a href="/bbs/board.php?bo_table=notice_Thanks"><span>더보기<i class="xi-plus"></i></span></a>
                         </div>
                         <?php echo latest('theme/notice', 'notice_Thanks', 5, 23);?>
-                        <!-- <ul>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항ddddd</a>
-                                <p>2021-03-05</p>
-                            </li>
-                            <li>
-                                <a href=""></a>
-                                <p>2021-03-04</p>
-                            </li>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-03</p>
-                            </li>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-02</p>
-                            </li>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-01</p>
-                            </li>
-                        </ul> -->
+      
                     </div>
                     <div class="event">
                         <div class="tit">
@@ -85,28 +64,7 @@ include_once(G5_THEME_PATH.'/head.php');
                             <a href="/bbs/board.php?bo_table=freeboard_Thanks"><span>더보기<i class="xi-plus"></i></span></a>
                         </div>
                         <?php echo latest('theme/notice', 'freeboard_Thanks', 5, 23);?>
-                        <!-- <ul>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-05</p>
-                            </li>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-04</p>
-                            </li>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-03</p>
-                            </li>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-02</p>
-                            </li>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-01</p>
-                            </li>
-                        </ul> -->
+             
                     </div>
                     <div class="media">
                         <div class="tit">
@@ -114,28 +72,7 @@ include_once(G5_THEME_PATH.'/head.php');
                             <a href="/bbs/board.php?bo_table=event_Thanks"><span>더보기<i class="xi-plus"></i></span></a>
                         </div>
                         <?php echo latest('theme/notice', 'event_Thanks', 5, 23);?>
-                        <!-- <ul>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-05</p>
-                            </li>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-04</p>
-                            </li>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-03</p>
-                            </li>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-02</p>
-                            </li>
-                            <li>
-                                <a href="">공지사항공지사항공지사항공지사항</a>
-                                <p>2021-03-01</p>
-                            </li>
-                        </ul> -->
+    
                     </div>
                 </div>
             </section>
